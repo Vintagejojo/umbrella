@@ -1,0 +1,349 @@
+
+body {
+    background: #f2f2f2;
+}
+
+
+.big_container {
+    width: auto;
+    background: #a0c63f;
+}
+
+.top_buttons {
+    float: right;
+    display: inline;
+    font-size: 20px;
+    font-weight: 400;
+    color: #414141;
+    padding: 18px 10px 0 10px;
+}
+
+.hero_mods {
+    margin-bottom: 60px;
+}
+
+.outer_circle {
+    position: relative;
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+    background: white;
+    border: .5px solid #ececec;
+}
+
+.inner_circle {
+    position: absolute;
+    border-radius: 160px;
+    height: 160px;
+    width: 160px;
+    background: #8eb53e;
+    top: 20px;
+    left: 18px;
+    bottom: 1px;
+    right: 1px;
+}
+
+.circle_image_mods {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    bottom: 1px;
+    right: 1px;
+    width: 60%;
+
+}
+
+/* text at the bottom of the circular columns */
+
+.circle_header_child {
+    position: relative;
+    top: 185px;
+    left: 1px;
+    bottom: 1px;
+    right: 1px;
+    color: #626262;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.circle_text_child_first {
+    position: absolute;
+    top: 250px;
+    left: 35px;
+    bottom:1px;
+    right: 1px;
+    color: #626262;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.circle_text_child_second {
+    position: absolute;
+    top: 250px;
+    left: 15px;
+    bottom:1px;
+    right: 1px;
+    color: #626262;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.circle_text_child_third {
+    position: absolute;
+    top: 250px;
+    left: 43px;
+    bottom:1px;
+    right: 1px;
+    color: #626262;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.circle_text_child_fourth {
+    position: absolute;
+    top: 250px;
+    left: 13px;
+    bottom:1px;
+    right: 1px;
+    color: #626262;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+/* tiny space div below */
+
+div.tiny_space_div {
+    margin-top: 150px;
+    padding-bottom: 50px;
+    position: relative;
+}
+
+.spacing_div{
+    height: 60px;
+}
+
+.spacing_div_two{
+    height: 35px;
+}
+.recent_header {
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #626262;
+}
+
+span.portfolio_span {
+    text-transform: uppercase;
+    color: #a3c262;
+}
+
+/* Trying to Figure out the dotted line below */
+
+.hr_text {
+    width: 50%;
+    border: 1px dashed #ededed;
+    position: absolute;
+    top: 19px;
+    left: 420px;
+    bottom: 1px;
+    right: 1px;
+}
+
+.hr_text_two {
+    width: 50%;
+    border: 1px dashed #ededed;
+    position: relative;
+    top: -43px;
+    left: 1px;
+    bottom: 1px;
+    right: 1px;
+}
+}
+
+.padding_mods {
+    padding: 0;
+}
+
+.padding_mods_left {
+    padding: 0;
+}
+
+.border_background {
+    background: #ffffff;
+}
+
+.businessheader {
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 5px;
+  }
+/* .card_text {
+    font-size: 15px;
+} */
+
+
+/* .last_bottom_container {
+    background: white;
+} */
+
+
+.header_mods{
+    margin-top: 50px;
+    /* position: relative; */
+    color: #626262;
+    font-size: 25px;
+    top: 50px;
+}
+
+.header_mods_two{
+    margin-top: 15px;
+    padding-bottom: 15px;
+    /* position: relative; */
+    color: #626262;
+    font-size: 25px;
+    top: 50px;
+    font-weight: 500;
+}
+
+
+.bottom_word_mods {
+    word-wrap: break-word;
+    /* margin-top: 10px; */
+    font-size: 14px;
+}
+
+div.big_container_two {
+    width: auto;
+    background: white;
+}
+
+.small_icons {
+    float: left;
+    width: 16%;
+}
+
+/* Archive text mods */
+.archive_text {
+    font-size: 17px;
+    color: #626262;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.archive_line {
+    border: 1px dotted lightgray;
+}
+
+.image_container_last {
+    position: relative;
+
+}
+
+.contact_icon {
+    display: block;
+    margin-top: 1px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    top: 1px;
+    left: 1px;
+    bottom: 1px;
+    right: 1px;
+}
+
+/* .icon_mods {
+    position: absolute;
+    top: 88px;
+    left: 15px;
+    bottom: 1px;
+    right: 1px;
+} */
+
+
+
+
+/* .icon_mods_two {
+    position: absolute;
+    top: 88px;
+    left: 15px;
+    bottom: 1px;
+    right: 1px;
+} */
+
+.para_mods {
+    margin-bottom: 35px;
+}
+
+.para_mods_two {
+    position: relative;
+    top: 1px;
+    left: 15px;
+    bottom: 1px;
+    right: 1px;
+}
+
+/* .icon_mods_three {
+    position: absolute;
+    top: 88px;
+    left: 15px;
+    bottom: 1px;
+    right: 1px;
+} */
+
+
+.para_mods_three {
+    position: relative;
+    top: 1px;
+    left: 15px;
+    bottom: 1px;
+    right: 1px;
+}
+
+.name_box {
+    background-color: #fafafa; /* Green */
+    font-style: italic;
+    border: none;
+    color: #626262;
+    padding: 15px 32px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+}
+
+.subscribe_box {
+    float: right;
+    background-color: #4CAF50;
+    border: none;
+    color: #d4debc;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 5px
+}
+
+.image_container_last {
+    padding: 0px 0px 20px 0px;
+    margin-top: 10px;
+}
+
+.icon_mods {
+    margin-right: 10px 
+}
